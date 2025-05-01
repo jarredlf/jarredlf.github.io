@@ -1,4 +1,4 @@
-{data:[
+{"data":[
     {"address":{"_id":"55ccde65af5ff726d900001f","active":true,"address_1":null,"address_2":null,"city":"ANSALONGA","country":"Andorra","country_code":"AD","state":"","zip":"AD300"}},
     {"address":{"_id":"55ccde65af5ff726d9000021","active":true,"address_1":null,"address_2":null,"city":"ANGUILLA","country":"Anguilla","country_code":"AI","state":"ANGUILLA","zip":"000000"}},
     {"address":{"_id":"55ccde65af5ff726d9000022","active":true,"address_1":null,"address_2":null,"city":"ST. JOHNS","country":"Antigua and Barbuda","country_code":"AG","state":"ABERDEEN","zip":"000000"}},

@@ -1,4 +1,4 @@
-{data:
+{data:[
     {"address":{"_id":"55ccde65af5ff726d900001f","active":true,"address_1":null,"address_2":null,"city":"ANSALONGA","country":"Andorra","country_code":"AD","state":"","zip":"AD300"}},
     {"address":{"_id":"55ccde65af5ff726d9000021","active":true,"address_1":null,"address_2":null,"city":"ANGUILLA","country":"Anguilla","country_code":"AI","state":"ANGUILLA","zip":"000000"}},
     {"address":{"_id":"55ccde65af5ff726d9000022","active":true,"address_1":null,"address_2":null,"city":"ST. JOHNS","country":"Antigua and Barbuda","country_code":"AG","state":"ABERDEEN","zip":"000000"}},
@@ -105,4 +105,4 @@
     {"address":{"_id":"55ccde66af5ff726d90000df","active":true,"address_1":null,"address_2":null,"city":"ANEGADA","country":"Virgin Islands, British","country_code":"VG","state":"","zip":""}},
     {"address":{"_id":"55ccde66af5ff726d90000e0","active":true,"address_1":"","address_2":"","change_logs":[{"_id":"5cbf5cd8c7dca2016a001f71","attr_changes":{"address_1":[null,""],"address_2":[null,""],"state":["","St Thomas"]},"created_at":"2019-04-23T18:43:36Z","reason":null,"updated_at":"2019-04-23T18:43:36Z","user_id":"4fd9dc93f4825e6224000206"}],"city":"CHARLOTTE AMALIE","country":"Virgin Islands, U.S.","country_code":"VI","state":"St Thomas","zip":"00801"}},
     {"address":{"_id":"55ccde66af5ff726d90000e2","active":true,"address_1":null,"address_2":null,"city":"ADEN","country":"Yemen","country_code":"YE","state":"","zip":"000000"}}
-    }
+    ]}
